@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt)
 [![Raycast API](https://img.shields.io/badge/Raycast%20API-2.5.0-FF6363.svg)](https://developers.raycast.com/)
-[![Updated](https://img.shields.io/badge/Updated-09--25--26-orange.svg)](https://github.com/adriangrantdotorg/Raycast-Skill/commits/main)
+[![Version](https://img.shields.io/github/v/release/adriangrantdotorg/Raycast-Skill?color=orange&label=Version)](https://github.com/adriangrantdotorg/Raycast-Skill/releases)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-8A2BE2.svg)](https://github.com/anthropics/skills)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adriangrantdotorg/Raycast-Skill/pulls)
 
